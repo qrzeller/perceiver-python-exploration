@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+Thumbs.db
+
+# remove the dataset folders and all what is inside
+./dataset/
+dataset/
+**/dataset/**
